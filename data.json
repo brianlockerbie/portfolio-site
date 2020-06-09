@@ -1,0 +1,49 @@
+{
+    "projects": [
+        {
+        "id": 0,
+        "project_name": "Random Quote Generator",
+        "description": "An app that generates random quotes",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "live_link": "https://brianlockerbie.github.io/random-quote-generator/" ,
+        "github_link": "https://github.com/brianlockerbie/random-quote-generator",                
+        "image_urls": ["./static/images/project_1_screenshot_4_sq.png", "./static/images/project_1_screenshot_1.png", "./static/images/project_1_screenshot_2.png", "./static/images/project_1_screenshot_3.png"]
+        },
+        {
+        "id": 1,
+        "project_name": "List Pagination and Filtering",
+        "description": "App that dynamically creates list of ten employees or less per page and includes realtime search",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "live_link": "https://brianlockerbie.github.io/pagination-and-content-filter/",
+        "github_link": "https://github.com/brianlockerbie/pagination-and-content-filter",            
+        "image_urls": ["./static/images/project_2_screenshot_4_sq.png", "./static/images/project_2_screenshot_1.png", "./static/images/project_2_screenshot_2.png", "./static/images/project_2_screenshot_3.png"]        
+        },
+        {
+        "id": 2,
+        "project_name": "Interactive Form",
+        "description": "An interactive form with validations",
+        "technologies": ["HTML", "CSS", "JavaScript", "JQuery"],
+        "live_link": "https://brianlockerbie.github.io/interactive-form/" ,
+        "github_link": "https://github.com/brianlockerbie/interactive-form",
+        "image_urls": ["./static/images/project_3_screenshot_4_sq.png", "./static/images/project_3_screenshot_1.png", "./static/images/project_3_screenshot_2.png", "./static/images/project_3_screenshot_3.png"]     
+        },
+        {
+        "id": 3,
+        "project_name": "OOP Game Show App",
+        "description": "Hangman style phrase guessing game",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "live_link": "https://brianlockerbie.github.io/oop-game/",
+        "github_link": "https://github.com/brianlockerbie/oop-game",
+        "image_urls": ["./static/images/project_4_screenshot_4_sq.png", "./static/images/project_4_screenshot_1.png", "./static/images/project_4_screenshot_2.png", "./static/images/project_4_screenshot_3.png"]           
+        },
+        {
+        "id": 4,
+        "project_name": "Public API Request",
+        "description": "App that builds an employee directory from the Random User API",
+        "technologies": ["HTML", "CSS", "JavaScript", "AJAX", "JSON"],
+        "live_link": "https://brianlockerbie.github.io/public-api-requests/",
+        "github_link": "https://github.com/brianlockerbie/public-api-requests",
+        "image_urls": ["./static/images/project_5_screenshot_4_sq.png", "./static/images/project_5_screenshot_1.png", "./static/images/project_5_screenshot_2.png", "./static/images/project_5_screenshot_3.png"]
+        }
+        ]
+  }

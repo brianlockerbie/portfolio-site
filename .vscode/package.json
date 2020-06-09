@@ -1,0 +1,26 @@
+{
+    "name": "react-gallery-app",
+    "version": "1.0.0",
+    "description": "Static Node.js & Express Site",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node app.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/brianlockerbie/"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/brianlockerbie/issues"
+    },
+    "homepage": "https://github.com/brianlockerbie/#readme",
+    "dependencies": {
+      "body-parser": "^1.19.0",
+      "express": "^4.17.1",
+      "pug": "^2.0.4",
+      "stack": "^0.1.0"
+    }
+  }
