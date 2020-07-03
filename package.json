@@ -1,5 +1,5 @@
 {
-  "name": "react-gallery-app",
+  "name": "portfolio-site",
   "version": "1.0.0",
   "description": "Static Node.js & Express Site",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brianlockerbie/react-gallery-app.git"
+    "url": "git+https://github.com/brianlockerbie/portfolio-site.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/brialockerbie/react-gallery-app/issues"
+    "url": "https://github.com/brialockerbie/portfolio-site/issues"
   },
-  "homepage": "https://github.com/brianlockerbie/react-gallery-app#readme",
+  "homepage": "https://github.com/brianlockerbie/portfolio-site#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
