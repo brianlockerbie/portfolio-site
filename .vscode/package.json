@@ -9,14 +9,14 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/brianlockerbie/"
+      "url": "git+https://github.com/brianlockerbie/react-gallery-app.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/brianlockerbie/issues"
+      "url": "https://github.com/brianlockerbie/react-gallery-app/issues"
     },
-    "homepage": "https://github.com/brianlockerbie/#readme",
+    "homepage": "https://github.com/brianlockerbie/react-gallery-app#readme",
     "dependencies": {
       "body-parser": "^1.19.0",
       "express": "^4.17.1",
